@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GBC-Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">test</string>
+    <string name="mainTitle">GBC Guide</string>
+    <string name="campus1">Casa Loma Campus</string>
+    <string name="campus2">Ryerson University</string>
+    <string name="campus3">St.James Campus</string>
+    <string name="campus4">Waterfront Campus</string>
+    <string name="campus5">Young Centre for the Performing Arts</string>
+    <string name="viewMap">View on Map</string>
+    <string name="title_activity_map_of_campuses">MapOfCampusesActivity</string>
+    <string name="title_activity_casa_loma_info">CasaLomaInfoActivity</string>
+    <string name="title_activity_ryerson">ryersonActivity</string>
+    <string name="title_activity_st_james">stJamesActivity</string>
+    <string name="title_activity_waterfront">waterfrontActivity</string>
+    <string name="title_activity_young_centre">youngCentreActivity</string>
+
+</resources>
